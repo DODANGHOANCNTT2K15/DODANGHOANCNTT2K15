@@ -1,27 +1,22 @@
-# Tiêu đề README
+# Dự án Của Bạn
 
-Đây là nội dung bình thường trong Markdown.
+Chào mừng đến với dự án của tôi!
 
-<!-- Nhúng HTML -->
-<div style="color: blue; font-weight: bold;">
-  Đây là đoạn text được định dạng bằng HTML!
-</div>
+## Trạng thái động
+<!-- Badge động từ Shields.io hiển thị số phiên bản hoặc trạng thái build -->
+![Trạng thái Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Phiên bản](https://img.shields.io/badge/version-1.0.0-blue)
 
-Tiếp tục nội dung Markdown...
+## Hình ảnh động
+<!-- Một GIF động để minh họa -->
+![Hình ảnh động](https://media.giphy.com/media/3o7TKz2b3wyk65g17y/giphy.gif)
 
-## Hi there 👋
+## Thống kê GitHub
+<!-- Thống kê động từ GitHub Stats -->
+![Thống kê GitHub](https://github-readme-stats.vercel.app/api?username=ten_nguoi_dung&show_icons=true&theme=radical)
 
-<!--
-**DODANGHOANCNTT2K15/DODANGHOANCNTT2K15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Liên kết tương tác
+Nhấn vào đây để xem [trang web động](https://example.com) của tôi!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+_Cập nhật lần cuối: March 20, 2025_
