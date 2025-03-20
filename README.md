@@ -1,3 +1,14 @@
+# Tiêu đề README
+
+Đây là nội dung bình thường trong Markdown.
+
+<!-- Nhúng HTML -->
+<div style="color: blue; font-weight: bold;">
+  Đây là đoạn text được định dạng bằng HTML!
+</div>
+
+Tiếp tục nội dung Markdown...
+
 ## Hi there 👋
 
 <!--
